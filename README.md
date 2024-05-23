@@ -1,2 +1,2 @@
-# psit_tutorial
+# psi4_tutorial
 My record of studying https://github.com/hidt4/python-compchem-book
